@@ -1,0 +1,229 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 514
+  ClientWidth = 396
+  Fill.Kind = Gradient
+  Fill.Gradient.Points = <
+    item
+      Color = xFFF15316
+      Offset = 0.000000000000000000
+    end
+    item
+      Color = claWhite
+      Offset = 1.000000000000000000
+    end>
+  Fill.Gradient.StartPosition.X = 0.456255644559860200
+  Fill.Gradient.StopPosition.X = 0.543744385242462200
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Z: TLayout
+    Align = Top
+    Anchors = [akTop]
+    Margins.Top = 40.000000000000000000
+    Position.Y = 40.000000000000000000
+    Size.Width = 396.000000000000000000
+    Size.Height = 137.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Image1: TImage
+      MultiResBitmap.Height = 64
+      MultiResBitmap.Width = 64
+      MultiResBitmap = <
+        item
+          Width = 64
+          Height = 64
+          PNG = {
+            89504E470D0A1A0A0000000D4948445200000040000000400806000000AA6971
+            DE000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+            044E49444154785EED9ACB8F0C5114C6ABBB65822044A2CD8C582158118F85D8
+            D812618FF82FACC44248C682F8036C646C2C6792312164263A420889643C4632
+            0419AF08866942FAE1FBAA4F75AAA71E5D75EBDEEE6AEA977C73CEAD5B756FDD
+            33F755D5656564F416B55AED50BD5E9FAC542AF3B0BE30AF5AAD4EE0DC837259
+            6741C545DCC0306E648EA28F636B245B19B46DA8D1C4E8A0EEB3727967404397
+            A0D153527F1339B6584E8B8DFCE795C0B507A418F3A0B2E352AF07E41D93D362
+            83CB271BA5C407BDE09614E3212F561BB95C6E8BB81E702F5BC58D0D1AB143DC
+            D8A0DE9DE27AD01E00543627AE877C3E1F98D78E42A1B04CDCD8E0DA15E27AD0
+            1E00F05AAC07042730AF5B9818026FC4F5232CAF2B98E801FF7D0066316155C4
+            6FC263E81DEF25991A4C0C812ACCBB46AA8559E47902D36D4CF400E2D7D553D7
+            FD899100F84D846D26C7AE91F500B15AC17FFBADB84DFC8EA581AC0788D54DCF
+            0440377DD0397477AEF775B7F01CC0634310CF890DB6D18990628CC306B634DC
+            473C2736D20E65A418E3CC42AC6C8F9D6A652FC43C9E131B698732528C879C58
+            5D38150595DB2E3F90B0464401C3D2B74E9549D01EE710B7BBBC29B7167207F2
+            CB771F0B5309328A4A004E4327A07E3BE5C5FDD2A3265615062175848D7363D8
+            033901528C079539C0294CF7FC114A5823A2A0730EF8A7C80220360ECECB0EAE
+            EB3D8F4A0086C57289E2B834A9542E83A720671F601A06A1E77805F1C637D8A9
+            061B211E7B69A714B0D7B20448311E4C4C821FC4AE154B1CDFC94B0D2602F051
+            6C512C717C272F35640110AB13A79BFB05201B026253431600B13A711AE9B70A
+            643D406C6A30F148BB1CFADE703D306FBEE1C6236C3313854E3E0EFF80AE37DC
+            16784CA9F12689DA03B8ADE5373A2FA09F3CD0694CF580760160A3AF42FBED94
+            65F1F7FDA7D07DE881D829C8F8EFFEA602D08E0B102BE6E4F510FA2369B7D823
+            F8F6F7227404DA042955160603900429C643BB1BE5575DEBA16DD063885F7A6E
+            8776B9E4D7E06F90D34B1C257A7C0E6B4414548600676CBEE2FE0D7128F0D317
+            3F5642FC107137E40465105A08DF263310FC6AF332C4C93232A60210061BC54A
+            F99F8F0B037018E287CA37A0AF10CB72F4045A0D458601488214138BA3102FE4
+            249814469F4385653E8258EE492832D20E65A4180F61FB00E79BDFE76293C01B
+            E0127A053ACF03C0FDC6A86B840560B3D8676275C14994A4E283894EF50037FB
+            C44E8AED2A41336301E2FABE08E26AA06BF7C715E333C48DD32AE8171489B071
+            1C85A05520A807F0E9ADAF582CE6516F9995EB60646484AB01837B0F8ADC7893
+            0405C07E7EEFEF0FFA055C8D898909F1D2D1FD49500006F8477700C6C7C7C5B3
+            6E8AED3AA101181CF4DBD0A9313333634D4F4FD3FD02DDA5930642033030601B
+            2D8C8E8E8A675D8382B6D51D27280076DFD73904C6C6C6C4B39A4E1AE8C82458
+            2E97AD52C9FEA197CB9FDFDBA2D47106FA04ADB353C9590A712B7CC94E2950A9
+            544AB29AC606D7DE966232325AB0ACBFBD4CD8134A1A39E20000000049454E44
+            AE426082}
+          FileName = 
+            'C:\Projetos\toqBeer\Mobile\images\6740126_alcohol_bar_beer_bever' +
+            'age_drink_icon.png'
+        end>
+      Align = Top
+      Margins.Top = 20.000000000000000000
+      Position.Y = 20.000000000000000000
+      Size.Width = 396.000000000000000000
+      Size.Height = 83.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object Label1: TLabel
+      Align = Bottom
+      StyledSettings = []
+      Margins.Left = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 102.000000000000000000
+      Size.Width = 391.000000000000000000
+      Size.Height = 35.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Family = 'Krona One'
+      TextSettings.Font.Size = 36.000000000000000000
+      TextSettings.HorzAlign = Center
+      Text = 'toqBeer'
+      TabOrder = 1
+      object Label2: TLabel
+        Align = Bottom
+        StyledSettings = []
+        Margins.Bottom = 2.000000000000000000
+        Position.Y = -2.000000000000000000
+        Size.Width = 391.000000000000000000
+        Size.Height = 35.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Krona One'
+        TextSettings.Font.Size = 35.000000000000000000
+        TextSettings.FontColor = claWhite
+        TextSettings.HorzAlign = Center
+        Text = 'toqBeer'
+        TabOrder = 1
+      end
+    end
+  end
+  object Layout2: TLayout
+    Align = Center
+    Anchors = [akTop, akBottom]
+    Size.Width = 396.000000000000000000
+    Size.Height = 312.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object rectbotao: TRectangle
+      Align = Center
+      Fill.Color = xFFF35D23
+      HitTest = False
+      Margins.Left = 80.000000000000000000
+      Margins.Top = 250.000000000000000000
+      Margins.Right = 80.000000000000000000
+      Size.Width = 291.000000000000000000
+      Size.Height = 47.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Cap = Round
+      Stroke.Join = Round
+      XRadius = 15.000000000000000000
+      YRadius = 15.000000000000000000
+      object SpeedButton1: TSpeedButton
+        Align = Center
+        StyledSettings = []
+        Margins.Top = -2.000000000000000000
+        Size.Width = 258.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        Text = 'Acessar'
+        TextSettings.Font.Family = 'Krona One'
+        TextSettings.Font.Size = 26.000000000000000000
+        TextSettings.FontColor = claWhite
+        TextSettings.FontColorForState.Normal = xFFE2E2E2
+        TextSettings.FontColorForState.Hot = claSlategray
+        TextSettings.FontColorForState.Pressed = xFFE9E9E9
+        TextSettings.FontColorForState.Focused = claSlategray
+        TextSettings.Trimming = Word
+        OnClick = SpeedButton1Click
+      end
+    end
+    object RoundRect1: TRoundRect
+      Align = Center
+      Fill.Color = xFFE5E5E5
+      Margins.Left = 80.000000000000000000
+      Margins.Top = -140.000000000000000000
+      Margins.Right = 80.000000000000000000
+      Size.Width = 363.000000000000000000
+      Size.Height = 62.000000000000000000
+      Size.PlatformDefault = False
+      object Edit1: TEdit
+        Touch.InteractiveGestures = [LongTap, DoubleTap]
+        Align = Client
+        TabOrder = 0
+        KeyboardType = EmailAddress
+        Margins.Left = 13.000000000000000000
+        Margins.Right = 13.000000000000000000
+        Margins.Bottom = -12.000000000000000000
+        Size.Width = 337.000000000000000000
+        Size.Height = 32.000000000000000000
+        Size.PlatformDefault = False
+        TextPrompt = 'E-Mail'
+      end
+    end
+    object RoundRect2: TRoundRect
+      Align = Center
+      Fill.Color = xFFE5E5E5
+      Margins.Left = -20.000000000000000000
+      Margins.Top = 40.000000000000000000
+      Margins.Right = -20.000000000000000000
+      Size.Width = 363.000000000000000000
+      Size.Height = 58.000000000000000000
+      Size.PlatformDefault = False
+      object Edit2: TEdit
+        Touch.InteractiveGestures = [LongTap, DoubleTap]
+        Align = Client
+        TabOrder = 0
+        KeyboardType = EmailAddress
+        Password = True
+        Margins.Left = 12.000000000000000000
+        Margins.Right = 12.000000000000000000
+        Margins.Bottom = -4.000000000000000000
+        Size.Width = 339.000000000000000000
+        Size.Height = 32.000000000000000000
+        Size.PlatformDefault = False
+        TextPrompt = 'Senha'
+      end
+    end
+  end
+  object Layout3: TLayout
+    Align = Bottom
+    Margins.Top = 50.000000000000000000
+    Position.Y = 464.000000000000000000
+    Size.Width = 396.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object Label3: TLabel
+      Align = Bottom
+      StyledSettings = [Style, FontColor]
+      Position.Y = 27.000000000000000000
+      Size.Width = 396.000000000000000000
+      Size.Height = 23.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Family = 'Krona One'
+      TextSettings.HorzAlign = Center
+      Text = 'ToqSys Systemas'
+      TabOrder = 0
+    end
+  end
+end

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/03 20:05:50.000.502,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 19:34:02.000.466,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 20:14:24.000.677,C:\Projetos\toqBeer\Mobile\UPrincipal.fmx=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/07/18 20:14:24.000.677,C:\Projetos\toqBeer\Mobile\UPrincipal.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 20:14:30.000.776,C:\Projetos\toqBeer\Mobile\toqBeer.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/07/22 10:26:44.789,=C:\Projetos\toqBeer\Mobile\Unit2.pas</Transaction>
+    <Transaction>2023/07/22 10:33:45.903,C:\Projetos\toqBeer\Mobile\UEmpresa.fmx=C:\Projetos\toqBeer\Mobile\Unit2.fmx</Transaction>
+    <Transaction>2023/07/22 10:33:45.903,C:\Projetos\toqBeer\Mobile\UEmpresa.pas=C:\Projetos\toqBeer\Mobile\Unit2.pas</Transaction>
+    <Transaction>2023/07/22 10:36:24.356,=C:\Projetos\toqBeer\Mobile\Unit3.pas</Transaction>
+    <Transaction>2023/07/22 11:08:44.565,C:\Projetos\toqBeer\Mobile\UMenu.fmx=C:\Projetos\toqBeer\Mobile\Unit3.fmx</Transaction>
+    <Transaction>2023/07/22 11:08:44.565,C:\Projetos\toqBeer\Mobile\UMenu.pas=C:\Projetos\toqBeer\Mobile\Unit3.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
